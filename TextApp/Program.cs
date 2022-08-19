@@ -374,3 +374,4 @@ namespace lesson8
 
     }
 }
+//checked
